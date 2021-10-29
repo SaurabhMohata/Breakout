@@ -1,0 +1,11 @@
+1) Create a Java project in Intellij or in any other development environment supporting awt and swing. (no additional library needed)
+
+2) Create a class named Breakout and paste this code.
+
+3) Run the main function.
+
+
+Creators:
+Keshav (18BCE1041)
+Saurabh Mohata (18BCE1207)
+
